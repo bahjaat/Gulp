@@ -1,4 +1,4 @@
-# Gulp met SASS e
+# Gulp met SASS
 
 ## VagrantBox ##
 
